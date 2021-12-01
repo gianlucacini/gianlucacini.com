@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    color: #b67c10;
+    color: #ccc;
     background: #292929;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -27,15 +27,11 @@ main#content a {
 }
 
 main#content p {
-    color: #b67c10;
+    color: #ccc;
 }
 
 main#content hr {
     background: #5c5c5c;
-}
-
-main#content #toc h4 {
-    color: #b67c10;
 }
 
 main#content ul#posts small {
