@@ -8,8 +8,7 @@ pygmentsUseClasses = true
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [params]
-  description = "Test Description"
-  copyright = "Copyright © 2021 Your Name"
+  description = ""
   dark = "on"
   highlight = true
 
