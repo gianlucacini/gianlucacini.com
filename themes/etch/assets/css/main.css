@@ -21,11 +21,6 @@ header#banner {
     margin: 25px 0;
 }
 
-header#banner a {
-    color: #313a3d;
-    text-decoration: none;
-}
-
 header#banner a:hover {
     text-decoration: underline;
 }
@@ -73,6 +68,7 @@ main#content h3,
 main#content h4,
 main#content h5,
 main#content h6 {
+    color:#ccc;
     margin-bottom: 0;
     line-height: 1.15;
 }
