@@ -45,11 +45,12 @@ With business model i mean:
 
 - SaaS / XaaS (everything as a service)
 - E-Commerce
+- Coaching
 - Info Products
-- White Label Product Provider (like represent/teespring)
-- White Label Service Provider (help companies outsource SEO, Web Development, etc...)
-- Communities 
-- Class-Ads (like job boards)
+- Product Providing (like represent/teespring)
+- Service Providing (SEO, Web Development, Copywriting etc...)
+- Communities (Patreon groups, Discord groups, masterminds, slack chats etc...)
+- Class-Ads (like craigslist, job boards etc...)
 
 these models have been around for years, and there are still untapped niches. Businesses still need software and contractors to outsource excess work to, people still want to buy and sell things online, people still want to meet and connect with likeminded people etc etc. 
 
@@ -57,7 +58,7 @@ You might argue that these needs have already been met by other companies and th
 
 ## Start from the bad reviews of an an existing business
 
-never tried it, but heard about this method many times. Simply browsing through the negative reviews of info or software products can give you an idea of what are they lacking and what can be done better.
+never tried it, but heard about this method from Tim Ferris. Simply browse through the negative reviews of any product / service and see what they are doing wrong, what's missing and what could be added, then use this information to create a better product / service.
 
 ## Do not spread yourself too thin
 
