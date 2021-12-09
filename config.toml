@@ -21,10 +21,10 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
+    identifier = "goals"
+    name = "goals"
+    title = "goals"
+    url = "/goals/"
     weight = 20
 
 [permalinks]

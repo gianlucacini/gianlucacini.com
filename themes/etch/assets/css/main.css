@@ -271,3 +271,14 @@ footer#footer {
     color: #949494;
     margin: 40px 0;
 }
+
+table{
+    margin: 10px 0;
+    width: 100%;
+}
+td{
+    padding: 10px;
+}
+table,td{
+    border: 1px solid white;
+}
