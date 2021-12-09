@@ -11,21 +11,15 @@ tags = [
 draft = false
 +++
 
-Finding ideas... the cross and delight of every startup founder.
-
-I am not a big fan of this part, particularly because there is a lot of homework-like tasks you need to do in order to gtfo this phase and start to actually build stuff: you have to validate your ideas, you have to check and study the competition, you have to check on google trends if people are actually searching for what you want to build etc etc.
-
-Although I hate this part, this is also where i dabble the most. Big mistake.
-
-I am a very insecure person and if I am not good at something right away, I get discouraged very easily. This is obviously not good because the first few months, any startup will probably be garbage no matter how much work gets put in.
+Ok I am not a big fan of this part, particularly because there are a lot of homework-like tasks you need to do in order to gtfo this phase and get to the actual fun stuff which is building
 
 ## What are Your Goals
 
 I think the journey to finding business ideas starts from defining your very own goals. 
 
-For example, if you want to build the next revolutionary Web3 startup that will solve financial inequality, then perhaps you should hang out and network with other engineers and academics, study hard, find VCs and raise rounds (I actually have no idea what you should be doing, I'm just filling this paragraph with words).
+For example, if you want to build the next revolutionary Web3 startup that will solve financial inequality, then perhaps you should hang out and network with engineers and academics, study hard, find VCs and raise rounds (I actually have no idea what you should be doing, I'm just filling this paragraph with words).
 
-If you are a small brain chimp like me, and all you want is to break free from your boring job, spend less time in front of a computer screen and more time with friends and family, and have less stress and more freedom, then maybe the solution is a bootstrapped, solo founded internet business. No employees, no investors, no liabilities.
+But instead, if all you want is to break free from a boring job, have more freedom, spend less time in front of a computer screen and more time with friends and family, then maybe the solution is a bootstrapped, solo founded internet business. No employees, no investors, no liabilities.
 
 Defining your goal first and foremost helps you step on the right track.
 
@@ -65,10 +59,16 @@ You might argue that these needs have already been met by other companies and th
 
 never tried it, but heard about this method many times. Simply browsing through the negative reviews of info or software products can give you an idea of what are they lacking and what can be done better.
 
+## Do not spread yourself too thin
+
+Our society rewards specialization more than generalization. If i hire a plumber, i couldn't care less if he plays the drums in his spare time, i want him to be great at plumbing.
+
+I think the same is true in the startup world, therefore the best course of action would be, when finding ideas, concentrate only on one industry. 
+
 ## Just start
 
-As of today, december 1st 2021, I have committed to building and growing a couple of internet businesses for at least one year, no matter what happens.  
+The most important part. Once you found enough ideas, it's time to turn off your brain and start building.
 
-I won't dabble, I won't think my idea is dumb or not cool, I will just start without worrying about getting results, reaching kpi's, monthly impressions, revenue and social media likes.
+There will be many moments in which you will feel insecure, you will second guess yourself and you will be tempted to stop everything and chase after another idea. Do not do that. 
 
-Just Start.
+Only after you build -> launch -> market for some time you will eventually undestand if you failed or not. But do not quit too early.
