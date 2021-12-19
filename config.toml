@@ -13,12 +13,12 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   highlight = true
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
-    url = "/"
-    weight = 10
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name = "posts"
+  #  title = "posts"
+  #  url = "/"
+  #  weight = 10
 
   [[menu.main]]
    identifier = "goals"
