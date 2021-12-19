@@ -60,13 +60,13 @@ You might argue that these needs have already been met by other companies and th
 
 Simply browse through the reviews of any product / service and see what they are doing well, what they are doing wrong, what's missing and what could be added, then use this information to create a better product / service.
 
-### Do not spread yourself too thin
+## Do not spread yourself too thin
 
 Our society rewards specialization more than generalization. If i hire a plumber, i couldn't care less if he plays the drums in his spare time, i want him to be great at plumbing.
 
 I think the same is true in the startup world, therefore the best course of action would be, when finding ideas, concentrate only on one industry. 
 
-### Just start
+## Just start
 
 The most important part. Once you found enough ideas, it's time to turn off your brain and start building.
 
