@@ -6,14 +6,14 @@ description = ""
 draft = false
 
 +++
-*last update: December 19th 2021*
+*last update: February 1st 2022*
 <br />
 
 💼 Business
 
 | Goal | Current Status |
 | :--- | :----: |
-| ship 3 side projects | ❌ |
+| ship 6 side projects | 0/6 |
 | get first paying customer | ❌ |
 | achieve 1k € in TTM | 🟨⬜⬜⬜⬜⬜ |
 
@@ -22,7 +22,7 @@ draft = false
 🏋️ Health
 | Goal | Current Status |
 | :--- | :----: |
-| workout five days a week <br> - *workout must be at least 1 hour long (including warm up and cool down)* <br> - *stretching counts as a workout* <br> - *walking counts only if done up a hill / trail* | 0/260 |
+| workout five days a week <br> - *workout must be at least 1 hour long (including warm up and cool down)* <br> - *stretching counts as a workout* <br> - *walking counts only if done up a hill / trail* | 5/260 |
 
 <br>
 
@@ -31,7 +31,6 @@ draft = false
 | :--- | :----: |
 |Post 50 pieces of content across Twitter/Blogs/Forums|0/50|
 |Introduce yourself to 5 new interesting people|❌|
-|Spend more than 30 days with family members|❌|
 
 <br>
 
