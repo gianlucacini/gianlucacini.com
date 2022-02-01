@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "2022 Goals"
+title = "2022 goals"
 date = "2021-12-19"
 description = ""
 draft = false

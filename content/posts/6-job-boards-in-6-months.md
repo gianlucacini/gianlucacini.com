@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "I'm Launching 6 Job Boards in 6 Months"
+title = "I'm launching 6 job boards in 6 months"
 date = "2022-02-01"
 description = ""
 

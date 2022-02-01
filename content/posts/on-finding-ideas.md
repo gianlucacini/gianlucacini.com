@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "On Finding Ideas"
+title = "On finding ideas"
 date = "2021-12-01"
 description = ""
 
