@@ -29,7 +29,7 @@ draft = false
 👪 Relationships
 | Goal | Current Status |
 | :--- | :----: |
-|Post 50 pieces of content across Twitter/Blogs/Forums|0/50|
+|Post 50 pieces of content across Twitter/Blogs/Forums|2/50|
 |Introduce yourself to 5 new interesting people|❌|
 
 <br>

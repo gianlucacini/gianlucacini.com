@@ -16,19 +16,24 @@ draft = false
 
 Please stop reading if you are not a .NET developer or if you are inclined to suing people for damaging your pc k thanks.
 
-This is a project from early 2021, I wanted to keep working and eventually start selling this software but then i realized it would be too much of a hassle. 
+These are a couple of productivity apps (more specifically a parental control app and an internet blocker) for windows like you've never seen before. I wanted to bring forward and eventually monetize this software but I realized it would be too much of a hassle. 
 
 So now you can find the code on my [GitHub](https://github.com/gianlucacini)
 
-### Y u do dis?
-I always wondered why programs or browser extensions that aim at blocking websites and apps are so easy to delete or to find workarounds. 
+### Omg another productivity app? 🥱 
 
-I mean, they could easily work on a windows account with no Admin privileges, but what if you are not a baby anymore and are on your own computer? 
+The problem with almos 90% of all these kind of software is that they are very easy to delete or to find workarounds. 
+
+I'd argue what's the point of a productivity apps if you can easily delete it in the first place.
+
+I mean, they could easily work on a windows account with no Admin privileges, but what if you are not a baby anymore and you have your own computer? 
 
 Is there software that can apply the same restrictions even on an administrator account with all privileges?
 
 ### Bill Gates Hates Me! The one secret He doesn't want you to know
 Well, apparently the windows kernel has an undocumented function called `RtlSetProcessIsCritical` that, if applied to your windows service, can essentially make it unstoppable. 
+
+If you run this method on your program and then terminate it, windows will shut down with it.
 
 This is a sample class 
 
@@ -55,9 +60,9 @@ public static class CriticalProcessBase
 ```
 
 ### What does this mean?
-it means that you can use this little snippet of code to create your own productivity app, your own parental control app, your own internet blocker app and that you can use it on your account with full admin privileges.
+it means you can use this little snippet of code to create your own productivity app, your own parental control app, your own internet blocker app and that it will work even on an account with full admin privileges.
 
-Also please feel free to use my code from two of my 2021 projects.
+Please feel free to use my code from two of my 2021 projects.
 
 ### Unplug
 Unplug is an internet blocker that uses your own firewall to block the internet. 
