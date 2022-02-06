@@ -16,17 +16,19 @@ draft = false
 
 Please stop reading if you are not a .NET developer or if you are inclined to suing people for damaging your pc k thanks.
 
-These are a couple of productivity apps (more specifically a parental control app and an internet blocker) for windows like you've never seen before. I wanted to bring forward and eventually monetize this software but I realized it would be too much of a hassle. 
+I'm presenting you a couple of productivity apps (more specifically a parental control app and an internet blocker) for windows like you've never seen before. 
 
-So now you can find the code on my [GitHub](https://github.com/gianlucacini)
+I wanted to bring forward and eventually monetize this software but I realized it would be too much of a hassle. 
 
-### Omg another productivity app? 🥱 
+So now you can find the code for both of these apps on my [GitHub](https://github.com/gianlucacini)
 
-The problem with almos 90% of all these kind of software is that they are very easy to delete or to find workarounds. 
+### Omg another productivity app? BORING 🥱 
 
-I'd argue what's the point of a productivity apps if you can easily delete it in the first place.
+The problem with almost 90% of all these kind of software (browser extensions and desktop software) is that they are very easy to delete or to disarm. 
 
-I mean, they could easily work on a windows account with no Admin privileges, but what if you are not a baby anymore and you have your own computer? 
+I'd argue, if you can easily delete or disarm it, what's the point of installing and using it in the first place?
+
+Yes they work great on a windows account with no Admin privileges, but what if you are not a baby anymore and you have your own computer? 
 
 Is there software that can apply the same restrictions even on an administrator account with all privileges?
 
