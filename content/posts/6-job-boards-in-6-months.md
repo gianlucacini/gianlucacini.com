@@ -17,14 +17,18 @@ Inspired by the holy apostles of the indie startup community, [Pieter Levels](ht
 For the next 6 months i will be building and launching 6 niche job boards in 6 months.
 
 ### Why Niche Job Boards?
-In my head I've rationalized that a job board is the simplest form of B2B "software" project to begin with. 
+In my head I’ve rationalized that a job board is the simplest form of B2B internet business to start with.
 
-For starters, everyone knows what a job board is, so no need to explain the service to people. This removes a layer of difficulty that many startup founders have.
+For starters, it's relatively easy to code (there are even prebuilt templates for wordpress... but i will code my own stuff from scratch).
 
-Second, it's a useful service for companies because you can offer more qualified applicants for a lower price, and it's a useful service for job applicants, because you can speed up and streamline their job seeking. 
+Second, everyone knows what a job board is, so the marketing is straight fordward. You don't need to explain the service to businesses and you can easily show them how you can add value.
+
+Third, it's a useful service for job applicants, because you can speed up and streamline their job seeking.
 
 ### Problems and Assumptions
-Just because job boards are simple and useful, doesn't mean that success is guaranteed. After all Linkedin, indeed and monster are pretty good. 
+Just because job boards are simple and useful, doesn't mean that success is guaranteed! 
+
+After all, i'm going to compete against giants like linkedin/indeed/monster.
 
 But there are many successful niche job boards out there that make decent income so that's what I'm aiming at.
 
