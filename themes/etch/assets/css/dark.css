@@ -36,6 +36,7 @@ main#content hr {
 
 main#content ul#posts small {
     color: #a7a7a7;
+    font-family: consolas;
 }
 
 main#content ul#posts li a:hover {
