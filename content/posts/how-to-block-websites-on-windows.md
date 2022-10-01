@@ -14,17 +14,15 @@ draft = false
 
 +++
 
-Please stop reading if you are not a .NET developer or if you are inclined to suing people for damaging your pc k thanks.
+*note: this article makes more sense if you are a windows developers*
 
-I'm presenting you a couple of productivity apps (more specifically a parental control app and an internet blocker) for windows like you've never seen before. 
+I'm presenting you a couple of unique productivity apps, more specifically a parental control app and an internet blocker for windows computers.
 
-I wanted to bring forward and eventually monetize this software but I realized it would be too much of a hassle. 
+You can find the code for both of these apps on my [GitHub](https://github.com/gianlucacini)
 
-So now you can find the code for both of these apps on my [GitHub](https://github.com/gianlucacini)
+### The problem 
 
-### Omg another productivity app? BORING 🥱 
-
-The problem with almost 90% of all these kind of software (browser extensions and desktop software) is that they are very easy to delete or to disarm. 
+The problem with almost 90% of all this kind of software (browser extensions and desktop software) is that they are very easy to delete or to disarm. 
 
 I'd argue, if you can easily delete or disarm it, what's the point of installing and using it in the first place?
 
@@ -32,7 +30,8 @@ Yes they work great on a windows account with no Admin privileges, but what if y
 
 Is there software that can apply the same restrictions even on an administrator account with all privileges?
 
-### Bill Gates Hates Me! The one secret He doesn't want you to know
+### The solution
+
 Well, apparently the windows kernel has an undocumented function called `RtlSetProcessIsCritical` that, if applied to your windows service, can essentially make it unstoppable. 
 
 If you run this method on your program and then terminate it, windows will shut down with it.
