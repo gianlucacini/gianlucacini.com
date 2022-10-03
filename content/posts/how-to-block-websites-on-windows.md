@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "How to block any (or all) website on your windows PC (forreal)"
+title = "How to block any website on your windows PC"
 date = "2022-01-15"
 description = ""
 
