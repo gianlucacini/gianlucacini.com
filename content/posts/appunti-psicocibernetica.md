@@ -5,7 +5,7 @@ date = "2022-02-18"
 description = ""
 
 tags = [
-    "health"
+    "self-development"
 ]
 
 draft = false

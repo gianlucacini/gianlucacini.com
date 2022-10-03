@@ -6,7 +6,6 @@ description = ""
 
 tags = [
     "productivity",
-    "health",
     "digital-detox"
 ]
 

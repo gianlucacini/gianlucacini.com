@@ -1,3 +1,3 @@
 +++
-title = "@gianluca_cini"
+title = "Gianluca Cini"
 +++
