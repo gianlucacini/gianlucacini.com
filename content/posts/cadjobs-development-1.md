@@ -12,13 +12,13 @@ draft = false
 
 +++
 
-A few months ago I decided to buy the domain cadjobs.com and launch an aggregator of job offers focused on cad software (autocad, solidworks and the likes)
+A few months ago I inherited the domain cadjobs.com and decided to launch an aggregator of job offers focused on cad software (autocad, solidworks and the likes)
 
 *check it out here >> [Cad Jobs](https://cadjobs.com) (shameless link building)*
 
-Although the concept of a job board is not new at all and it's frankly even boring in the indie hacker community, I thought launching and growing a web project from scratch would be a good opportunity to grow as a developer (and also make some money) 
+Although the concept of a job board is not new at all and it's frankly even boring in the developer community, I thought launching and growing a web project from scratch would be a good opportunity to grow as a developer 
 
-So after a very short and honestly very superficial market research, i decided to buy this domain and start working. 
+So after a very short and honestly very superficial market research, i decided to launch this project. 
 
 Here's a few things I've learned after a few months of work
 
@@ -28,7 +28,7 @@ biggest mistake I made so far is to start the project with technology I was not 
 
 turns out it wase a huge waste of time and had a lot of unnecessary problems. So as a .NET Core developer, I decided to go back to a Windows Server with IIS and a SQL Server database. Which is not a very sexy technology but I was very comfortable with it. 
 
-There is always time to change stack and to refactor the code once people start using my product. 
+There is always time to change stack and to refactor the code once people start using the product. 
 
 ## - Advice 2: Spend more time planning and less time coding
 
