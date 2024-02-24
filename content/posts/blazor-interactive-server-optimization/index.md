@@ -34,7 +34,27 @@ To speed up loading times, shrink the size of your CSS and JavaScript files. You
 ## Turn on Response Compression:
 With ASP.NET Core, you can compress your website's responses to make them smaller and faster. It's best to use the most effective compression method. According to Microsoft's documentation, the smallest size is achieved by setting compression to  optimal.
 
-<div style="text-align:center"><img src="enable-compression.png" /></div>
+```csharp
+using Microsoft.AspNetCore.ResponseCompression;
+
+//enable compression
+builder.Services.AddResponseCompression(options =>
+{
+    options.EnableForHttps = true;
+    options.Providers.Add<BrotliCompressionProvider>();
+    options.Providers.Add<GzipCompressionProvider>();
+});
+
+builder.Services.Configure<BrotliCompressionProviderOptions>(options =>
+{
+    options.Level = CompressionLevel.Optimal;
+});
+
+builder.Services.Configure<GzipCompressionProviderOptions>(options =>
+{
+    options.Level = CompressionLevel.Optimal;
+});
+```
 
 After making these changes, my website's performance score shot up to 95/100 on PageSpeed Insights.
 
