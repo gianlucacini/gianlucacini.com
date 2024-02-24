@@ -30,21 +30,21 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     [[menu.main]]
     identifier = "github"
     name = "github"
-    title = "github"
+    title = "Github"
     url = "https://github.com/gianlucacini"
     weight = 20
 
     [[menu.main]]
-    identifier = "youtube"
-    name = "youtube"
-    title = "youtube"
-    url = "https://www.youtube.com/@gianlucacini"
+    identifier = "linkedin"
+    name = "linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/gianluca-cini/"
     weight = 30
 
 [[menu.main]]
     identifier = "instagram"
     name = "instagram"
-    title = "instagram"
+    title = "Instagram"
     url = "https://www.instagram.com/gianluca_cini/"
     weight = 40
 

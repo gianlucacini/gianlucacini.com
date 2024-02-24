@@ -12,7 +12,9 @@ draft = false
 
 +++
 
-Upon deploying my hobby project, cadjobs.com, I wanted to make sure it worked smoothly for users and search engines. So, I checked its performance using Google's PageSpeed Insights tool.
+Upon deploying my hobby project, [Cad Jobs](https://cadjobs.com), I wanted to make sure it worked smoothly for users and search engines. So, I checked its performance using Google's PageSpeed Insights tool.
+
+<div style="text-align:center"><img src="insight-14.png" /></div>
 
 To my surprise, my website got a shockingly low 14/100 points for performance. 
 
@@ -32,9 +34,13 @@ To speed up loading times, shrink the size of your CSS and JavaScript files. You
 ## Turn on Response Compression:
 With ASP.NET Core, you can compress your website's responses to make them smaller and faster. It's best to use the most effective compression method. According to Microsoft's documentation, the smallest size is achieved by setting compression to  optimal.
 
+<div style="text-align:center"><img src="enable-compression.png" /></div>
+
 After making these changes, my website's performance score shot up to 95/100 on PageSpeed Insights.
 
 I hope sharing these tips helps other developers improve their websites too!
+
+<div style="text-align:center"><img src="insight-95.png" /></div>
 
 Sources:
  - https://learn.microsoft.com/it-it/aspnet/core/blazor/components/virtualization?view=aspnetcore-8.0 
