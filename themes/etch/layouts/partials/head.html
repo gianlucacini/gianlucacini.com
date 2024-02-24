@@ -30,14 +30,9 @@
     {{ printf `
     <link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y61KHVG37Z"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+    <script async defer src="https://sa.gianlucacini.com/latest.js"></script>
+    <noscript><img src="https://sa.gianlucacini.com/noscript.gif" alt=""
+            referrerpolicy="no-referrer-when-downgrade" /></noscript>
 
-        gtag('config', 'G-Y61KHVG37Z');
-    </script>
     <title>{{ .Title }}</title>
 </head>

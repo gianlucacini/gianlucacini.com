@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "CadJobs Development Diary: Planning and Developing a Niche Job Board"
+title = "CADJobs.com Development Diary: Planning and Developing a Niche Job Board"
 date = "2023-01-17"
 description = ""
 

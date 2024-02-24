@@ -8,7 +8,7 @@ tags = [
     "business"
 ]
 
-draft = false
+draft = true
 +++
 
 Quick mockup about what i learned over the years about the process of finding business ideas. *(last updated 5th February 2022)*
