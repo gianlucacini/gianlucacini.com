@@ -5,7 +5,7 @@ date = "2021-03-21"
 description = ""
 
 tags = [
-    "well-being"
+    "well-being", "side-projects"
 ]
 
 draft = false
@@ -21,30 +21,32 @@ You can find it here
 [Link to GitHub](https://github.com/gianlucacini/Unplug)
 
 ## Must-Have Feature of an Internet Blocker
-What this internet blocker has that most other don't is that it is very hard to bypass. 
-Just like your father screaming at you to turn that thing off. I believe this should be a must have for any internet/website blocker.
 
-## How to bypass an internet blocker
-There are several ways to bypass an internet blocker:
- - by ending the process from the task manager
- - by uninstalling it
- - by deleting or overriding firewall rules
- - by tampering with your dns
- - by changing the clock of your computer
- - by changing the timezone of your computer
- - by tampering with the file configuration
- - by tampering with the registry
+What sets this internet blocker apart from most others is its high level of resistance to bypassing. It's akin to your father sternly ordering you to switch off that device. I believe this feature should be a necessity for any internet or website blocker.
 
- ## What my internet blocker does once it's running
- - blocks internet using a rule in the firewall, and checks for its existance every 15 seconds, recreating it in case it gets deleted
- - sets process as critical (which forces a system restart if the process is ended from the task manager)
- - stores your timezone in a configuration file and takes the current time from an external NTP server
- - keeps its configuration file open so you cannot tamper with it.
- - starts several process monitors that check wheter you are tampering with the registry or with the service configuration
- - you cannot uninstall it because you cannot stop the service
+## How to Bypass an Internet Blocker
 
+There are several methods to bypass an internet blocker:
 
- ## Code Components
+ - Terminating the process from the task manager
+ - Uninstalling it
+ - Deleting or overriding firewall rules
+ - Tampering with your DNS
+ - Changing the clock of your computer
+ - Changing the timezone of your computer
+ - Tampering with the file configuration
+ - Tampering with the registry
+
+## What My Internet Blocker Does Once It's Running
+
+ - It blocks internet access using a firewall rule and checks its existence every 15 seconds, automatically recreating it if deleted.
+ - It sets the process as critical, forcing a system restart if the process is terminated from the task manager.
+ - It stores your timezone in a configuration file and retrieves the current time from an external NTP server.
+ - It keeps its configuration file open to prevent tampering.
+ - It initiates several process monitors to detect any attempts to tamper with the registry or service configuration.
+ - You cannot uninstall it because you cannot stop the service.
+
+## Code Components
 
 ### Snippet to set process as critical
 how is this even legal idk
