@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "Localize ASP.NET Identity Error Messages"
+title = "Localize ASP.NET Core Identity Error Messages"
 date = "2024-02-28"
 description = ""
 
@@ -17,7 +17,6 @@ If you are building an application serving users residing in specific country us
 You can do that by creating a class that inherits IdentityErrorDescriber, then by overriding all its methods.
 
 [Go to my Github Gist](https://gist.github.com/gianlucacini/411fa51d1cc67feb3c9f4f6c6ad3d7e5)
-
 
 Here is my class which translates default english error messages to italian.
 
