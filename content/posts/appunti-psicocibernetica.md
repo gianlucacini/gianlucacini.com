@@ -1,6 +1,6 @@
 +++
 author = "Gianluca Cini"
-title = "Riassunto Capitoli Psicocibernetica - Maxwell Maltz"
+title = "Riassunto Del Libro Psicocibernetica di Maxwell Maltz"
 date = "2022-02-18"
 description = ""
 
